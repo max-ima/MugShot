@@ -31,3 +31,5 @@ $lang['MugShot to crop tagged faces from photos'] = 'MugShot to crop tagged face
 $lang['ALLOW'] = 'ALLOW';
 $lang['DO NOT ALLOW'] = 'DO NOT ALLOW';
 $lang['Maximum number of tags to load client side for auto complete functionality'] = 'Maximum number of tags to load client side for auto complete functionality';
+$lang['Enable cropping of faces for automated tagging'] = 'Enable cropping of faces for automated tagging';
+$lang['This requires ImageMagick to be installed, including the PHP plugin'] = 'This requires ImageMagick to be installed, including the PHP plugin';
